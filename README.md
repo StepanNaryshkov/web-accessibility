@@ -1,8 +1,24 @@
 # web-accessibility
 Accessibility Resources for developers
 
+* [Accessibility levels](#levels)
 * [Tools](#tools)
 * [Screen Readers](#screen-readers)
+
+
+### Levels
+
+* Level A - the most basic web accessibility features
+* Level AA - deals with the biggest and most common barriers for disabled users. Level AA includes all Level A and AA requirements. Many organizations strive to meet Level AA.
+* Level AAA - the highest (and most complex) level of web accessibility. Level AAA includes all Level A, AA, and AAA requirements.
+* [Link to the official documentation with description for each level](https://www.w3.org/TR/WCAG21/#later-versions-of-accessibility-guidelines) - Web Content Accessibility Guidelines (WCAG) 2.1 from W3
+
+### Tools
+
+* [Accessibility Insights](https://accessibilityinsights.io) - Tool to test accessibility from Microsoft (free)
+* [Lighthouse](https://developer.chrome.com/docs/lighthouse/accessibility) - Accessibility Audits from Google (free)
+* [WAVE](https://wave.webaim.org) - Web Accessibility Evaluation Tool from WebAIM (free)
+* [aXe](https://www.deque.com/axe) - The Standard in Accessibility Testing from deque (free)
 
 ### Screen Readers
 
