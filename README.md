@@ -4,6 +4,7 @@ Accessibility Resources for developers
 * [Accessibility levels](#levels)
 * [Tools](#tools)
 * [Screen Readers](#screen-readers)
+* [Checklists](#checklists)
 * [Certifications](#certifications)
 
 ### Levels
@@ -26,6 +27,12 @@ Accessibility Resources for developers
 * [NVDA](https://www.nvaccess.org) - NVDA allows blind and vision impaired people to access and interact with the Windows operating system and many third party applications (free)
 * [VoiceOver](https://www.apple.com/accessibility/vision) - VoiceOver from Apple
 * [Narrator](https://support.microsoft.com/en-us/windows/complete-guide-to-narrator-e4397a0d-ef4f-b386-d8ae-c172f109bdb1) - Narrator is a screen reader in Microsoft Windows (free)
+
+### Checklists
+
+* [a11yproject](https://www.a11yproject.com/checklist) - This checklist uses The Web Content Accessibility Guidelines (WCAG) as a reference point.
+* [webaccessibilitychecklist](https://webaccessibilitychecklist.com) - A checklist for creating accessible websites and web applications.
+* [Web Accessibility Checklist](https://dequeuniversity.com/checklists/web) - Web Accessibility Checklist, Deque University
 
 ### Certifications
 
